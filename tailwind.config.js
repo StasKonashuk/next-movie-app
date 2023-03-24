@@ -17,6 +17,10 @@ module.exports = {
         "btn-hover-bg-color": "#9B3434",
         "gray-text-color": "#9A9A9A",
         "gray-border-color": "#1F1F1F",
+        "navbar-bg-color": "#080808",
+        "search-input-border-color": "#1F1F1F",
+        "search-input-text-color": "#5C5C5C",
+        "menu-item-hover-bg-color": "#1F1F1F",
       },
     },
     screens: {
